@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,csharp
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,csharp
+# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,csharp,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,csharp,visualstudiocode
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -399,6 +399,20 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+### Linux ###
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
 ### macOS ###
 # General
 .DS_Store
@@ -432,6 +446,19 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+### VisualStudioCode ###
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -453,4 +480,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,csharp
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,csharp,visualstudiocode
