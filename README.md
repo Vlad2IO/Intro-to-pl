@@ -2,14 +2,14 @@
 
 ## Оглавление
 
-* [Урок 1. Знакомство с языком программирования С#](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-1-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81-1)
-* [Урок 2. Базовые алгоритмы](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-2-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-1)
-* [Урок 3. Базовые алгоритмы. Продолжение](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-3-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-1)
-* [Урок 4. Функции](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-4-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-1)
-* [Урок 5. Функции и одномерные массивы](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-5-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B8-%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B-1)
-* [Урок 6. Одномерные массивы. Продолжение](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-6-%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-1)
-* [Урок 7. Двумерные массивы](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-7-%D0%B4%D0%B2%D1%83%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B-1)
-* [Урок 8. Двумерные массивы. Продолжение](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-8-%D0%B4%D0%B2%D1%83%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-1)
+* [Урок 1. Знакомство с языком программирования С#](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-1-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81)
+* [Урок 2. Базовые алгоритмы](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-2-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B)
+* [Урок 3. Базовые алгоритмы. Продолжение](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-3-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)
+* [Урок 4. Функции](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-4-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)
+* [Урок 5. Функции и одномерные массивы](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-5-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B8-%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B)
+* [Урок 6. Одномерные массивы. Продолжение](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-6-%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)
+* [Урок 7. Двумерные массивы](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-7-%D0%B4%D0%B2%D1%83%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B)
+* [Урок 8. Двумерные массивы. Продолжение](https://github.com/Vlad2IO/Intro-to-pl/tree/hw9#%D1%83%D1%80%D0%BE%D0%BA-8-%D0%B4%D0%B2%D1%83%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ## Урок 1. Знакомство с языком программирования С#
 
